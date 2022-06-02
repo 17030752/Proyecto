@@ -1,0 +1,1 @@
+swipl-win -s "%cd%/proyecto_final.pl" -g iniciar
